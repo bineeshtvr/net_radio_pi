@@ -19,3 +19,5 @@ The RPI's GPIO Ground and GPIO 7 for channel selection.
 1. You can spice up with an LCD Display to show channel details.
 2. Please replace your channel weblinks in the code. 
 3. For any channel selection, the radio will play BBC only as it is.
+
+LCD is 16X2 Generic with i2c. 
